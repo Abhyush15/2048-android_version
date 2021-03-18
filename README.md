@@ -1,5 +1,5 @@
 # 2048-android_version
-The 2048 game converted into android package**(means only for android)**.
+The 2048 game converted into android package **(means only for android)**.
 
 ## Installation
 1. Clone/download the repository.
